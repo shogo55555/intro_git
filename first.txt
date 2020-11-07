@@ -1,2 +1,4 @@
 git practice
 基本的なことを学べます。
+・ git add
+・ git command
