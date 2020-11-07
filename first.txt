@@ -4,3 +4,4 @@ git practice
 ・ git command
 ・ git rm
 ・ git status
+・ git diff
