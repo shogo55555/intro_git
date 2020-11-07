@@ -3,3 +3,4 @@ git practice
 ・ git add
 ・ git command
 ・ git rm
+・ git status
